@@ -7,7 +7,7 @@ React Native Develop , Frontend Developer
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [blinkz333.github.io/My-Profile/](http://blinkz333.github.io/My-Profile/)
 * ✉️  You can contact me at [threerapon.rat@gmail.com](mailto:threerapon.rat@gmail.com)
-* 🚀  I'm currently working on [Thairath](http://www.thairath.co.th)
+* 🚀  I'm currently working on [PushCodeX]
 * 🤝  I'm open to collaborating on interesting project.
 
 ### Skills
